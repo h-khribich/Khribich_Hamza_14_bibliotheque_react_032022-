@@ -1,6 +1,6 @@
 {
   "name": "modal-component-oc-hk-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -43,5 +43,8 @@
     "url": "https://github.com/h-khribich/Khribich_Hamza_14_bibliotheque_react_042022-"
   },
   "homepage": "https://github.com/h-khribich/Khribich_Hamza_14_bibliotheque_react_042022-",
-  "keywords": ["react", "component"]
+  "keywords": [
+    "react",
+    "component"
+  ]
 }
