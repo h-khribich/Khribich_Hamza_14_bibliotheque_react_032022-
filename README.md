@@ -14,9 +14,11 @@ or
 
 ### Usage
 
-1. First import the Modal (import { Modal } from "modal-component-oc-hk-1/dist/index")
+1. First import the Modal 
+`import { Modal } from "modal-component-oc-hk-1/dist/index"`
 
-2. In the same file, add then the function that toggles the modal (import { toggleModal } from 'modal-component-oc-hk-1/dist/components/Modal')
+2. In the same file, add then the function that toggles the modal 
+`import { toggleModal } from 'modal-component-oc-hk-1/dist/components/Modal'`
 
 3. Add the modal component where desired and use the `message` prop to change the modal message if you so wish
 
